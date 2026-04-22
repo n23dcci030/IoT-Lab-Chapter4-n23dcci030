@@ -1,8 +1,8 @@
 # IoT Lab — Chapter 4: Raspberry Pi with Python
 
-**Họ tên:** (điền tên bạn)  
+**Họ tên:** Vòong Đăng Hưng  
 **MSSV:** n23dcci030  
-**Lớp:** (ví dụ: D23CQCN01)
+**Lớp:** D23CQCI01-N
 
 ## Danh sách bài tập
 
