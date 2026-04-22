@@ -17,3 +17,6 @@
 ## CI/CD
 - GitHub Actions: xem tab Actions trên GitHub
 - GitLab CI: xem tab CI/CD trên GitLab
+## Biểu đồ cảm biến
+
+![Chart](BT2_QEMU_SensorSim/sensor_chart.png)
